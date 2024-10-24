@@ -1,16 +1,15 @@
-# uts_mobile_development_ogin_register_profilepage
+Nama : Alfha Risqi Wicaksono
+NIM : 362358302145
 
-A new Flutter project.
+Halaman Login :
 
-## Getting Started
+![Screenshot 2024-10-24 231543](https://github.com/user-attachments/assets/8404c9df-c3f1-46ae-a713-652a4b1f327f)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2024-10-24 231549](https://github.com/user-attachments/assets/626c05b6-824d-4616-8660-4acd3cd45158)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-10-24 231557](https://github.com/user-attachments/assets/3a82f937-638e-4d95-ae26-f717619ac3df)
+
+
+![Screenshot 2024-10-24 231604](https://github.com/user-attachments/assets/f923e03f-c0c7-4c2f-9077-683b7e08152e)
