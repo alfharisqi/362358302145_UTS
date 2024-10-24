@@ -6,6 +6,8 @@ Halaman Login :
 ![Screenshot 2024-10-24 231543](https://github.com/user-attachments/assets/8404c9df-c3f1-46ae-a713-652a4b1f327f)
 
 
+Halaman Sign UP
+
 ![Screenshot 2024-10-24 231549](https://github.com/user-attachments/assets/626c05b6-824d-4616-8660-4acd3cd45158)
 
 
